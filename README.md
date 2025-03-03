@@ -12,48 +12,56 @@ Efficiency - it helps to optimize developer workflow while maintaining high qual
 Scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
 Security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
-2.Identify and describe at least three key milestones in the evolution of software engineering.  
-mastering complexity
-Mastering process
-Mastering machine
+2.Identify and describe at least three key milestones in the evolution of software engineering.
+
+i. The Birth of Software Engineering (1968 - NATO Conference)
+During the 1968 NATO Software Engineering Conference members declared Software Engineering its official title then worked to establish engineering methods that would structure software development procedures. The science community formalized software engineering as an approved academic discipline through official recognition of its field.  
+
+ii. The Rise of Structured Programming (1970s - 1980s) 
+Structured Programming became a standard in the field because it combined readable programs alongside modular design methods featuring control structures and GOTO statement removal procedures for reduced maintenance costs. The major campaign for Structured Programming by Edsger Dijkstra led to the development of programming languages such as C, Pascal, and Ada which needed advanced coding practices. Wide adoption of programming languages occurred because of these developments. The progressive framework built essential principles which later led to the development of modern software development techniques.
+
+iii. The Emergence of Agile Methodologies (1990s - Present)
+The traditional software development practice adopted the Waterfall Model protocol, but specification changes proved this model ineffective. The year 2001 marked the appearance of the Agile Manifesto to address development challenges through its multi-iterative flexible approach. Software development industries underwent their primary shift due to Agile methodologies, particularly Scrum and Kanban, as well as Extreme Programming (XP) because these methods delivered speed while providing ongoing feedback that helped adapt solutions to customer requirements. Agile serves as the principle methodology of the software engineering discipline because it supports startup business innovation and innovative solution development for large enterprises.
 
 3. List and briefly explain the phases of the Software Development Life Cycle.
+
 planning - identify the software requirement or purpose and scope.
 requirement analysis - identify the final user specification. 
 design - building the framework. 
 coding - converting software design into tangible code.
 testing - examine the software for any bugs and glitches
 
-4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+5. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
-- there is Low flexibility,
-changes are hard to incorporate once a phase is complete.
-- customer feedback comes late, after the product is developed.
-- testing is done at the end of the development process.
+i. there is Low flexibility, changes are hard to incorporate once a phase is complete.
+ii. customer feedback comes late, after the product is developed.
+iii. testing is done at the end of the development process.
 
 agile methodology - Iterative and incremental, with multiple cycles (sprints). 
-- high flexibility, adapts to changing requirements. 
-- regular customer feedback is incorporated into every sprint. 
-- testing is continuous and done after each iteration.
+i. high flexibility, adapts to changing requirements. 
+ii. regular customer feedback is incorporated into every sprint. 
+iii. testing is continuous and done after each iteration.
 
 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 software Developer - developing applications,programs and systems using programming languages and frameworks.
-- maintaining and updating software to keep it functional. 
-- collaborating with other team members to ensure best practice when developing software.
-- reporting to the project manager about the progress of the software development.
+i. maintaining and updating software to keep it functional. 
+ii. collaborating with other team members to ensure best practice when developing software.
+iii. reporting to the project manager about the progress of the software development.
 Quality Assurance Engineer - collaborate with stakeholders to understand and clarify software requirement.
-- create development standards and procedures for the programmers to follow
-- confirm that the software meets the requirement before deployment. 
-- analyse the product to identify bugs and suggest changes to make them more efficient. 
-- develop and execute automation scripts using open source tools.
+i. create development standards and procedures for the programmers to follow
+ii. confirm that the software meets the requirement before deployment. 
+iii. analyse the product to identify bugs and suggest changes to make them more efficient. 
+iv. develop and execute automation scripts using open source tools.
 Project Manager - assembles and lead the software development team.
- - discuss the project and it's requirement with the client and software developers.
- - create blueprint for the project.
- - tracking and communicating information regarding the project milestone.
- - deliver the complete software to the client and regularly check its performance.
+v. discuss the project and it's requirement with the client and software developers.
+vi. create blueprint for the project.
+vii. tracking and communicating information regarding the project milestone.
+viii. deliver the complete software to the client and regularly check its performance.
 
 
 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
+
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 importance:
 Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
@@ -72,6 +80,7 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+
 rapid technological advancement places considerable pressure on software engineers to stay current.
 Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
@@ -86,18 +95,20 @@ Software Accessibility and Usability - Overly complex software can frustrate or 
 Solution: Use scalable architecture, Emphasize reliability.
 
 8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
- Integration tests - verify that different modules or services used by your application work well together.
- - help to ensure data flows smoothly between modules and interfaces work as expected.
- System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
- -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
+Integration tests - verify that different modules or services used by your application work well together.
+i. help to ensure data flows smoothly between modules and interfaces work as expected.
+System testing -Focus on the entire software system as a whole, including all functionalities and interactions.
+ii. It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
 Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
-- Whether the software meets the needs of the end-user and is ready for deployment.
+iii. Whether the software meets the needs of the end-user and is ready for deployment.
   
 #Part 2: Introduction to AI and Prompt Engineering
 
 9. Define prompt engineering and discuss its importance in interacting with AI models.
- prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
+    
+Prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
 Increased flexibility - A prompt engineer can create prompts with domain-neutral instructions highlighting logical links and broad patterns.
