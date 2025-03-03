@@ -12,35 +12,32 @@ Efficiency - it helps to optimize developer workflow while maintaining high qual
 Scalability and flexibility - it ensures that the system can handle an increased load without affecting performance.
 Security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
-
 2.Identify and describe at least three key milestones in the evolution of software engineering.  
 mastering complexity
 Mastering process
 Mastering machine
 
-
 3. List and briefly explain the phases of the Software Development Life Cycle.
-Planning - identify the software requirement or purpose and scope.
-Requirement analysis - identify the final user specification. 
-Design - building the framework. 
-Coding - converting software design into tangible code.
-Testing - examine the software for any bugs and glitches
+planning - identify the software requirement or purpose and scope.
+requirement analysis - identify the final user specification. 
+design - building the framework. 
+coding - converting software design into tangible code.
+testing - examine the software for any bugs and glitches
 
 4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 - there is Low flexibility,
 changes are hard to incorporate once a phase is complete.
-- Customer feedback comes late, after the product is developed.
-- Testing is done at the end of the development process.
+- customer feedback comes late, after the product is developed.
+- testing is done at the end of the development process.
 
 agile methodology - Iterative and incremental, with multiple cycles (sprints). 
-- High flexibility, adapts to changing requirements. 
-- Regular customer feedback is incorporated into every sprint. 
-- Testing is continuous and done after each iteration.
-
+- high flexibility, adapts to changing requirements. 
+- regular customer feedback is incorporated into every sprint. 
+- testing is continuous and done after each iteration.
 
 5. Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer - developing applications,programs and systems using programming languages and frameworks.
+software Developer - developing applications,programs and systems using programming languages and frameworks.
 - maintaining and updating software to keep it functional. 
 - collaborating with other team members to ensure best practice when developing software.
 - reporting to the project manager about the progress of the software development.
@@ -75,12 +72,12 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
--rapid technological advancement places considerable pressure on software engineers to stay current.
- Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
+rapid technological advancement places considerable pressure on software engineers to stay current.
+Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
- Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints 
--Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
- Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
+Solution: adopt agile methodologies, such as Scrum, to streamline workflows by dividing large projects into manageable sprints 
+Limited Infrastructure - limited high-performance software engineering tools and computing platforms and inefficient data storage architectures. 
+Solution: Software engineers must rely heavily on a robust infrastructure to perform their jobs effectively.
 Changing Software Requirements - Software requirements are often dynamic and subject to frequent changes, making it challenging for engineers to design and develop solutions that meet users' needs while accounting for future updates and bug fixes. 
 Solution: engineers can adopt approaches like agile development, which emphasizes iterative progress and adaptability, and modular design, which enables flexibility by breaking systems into manageable, independent components.
 Software Security - Programming secure software is a complex and challenging task. 
@@ -96,7 +93,7 @@ Unit tests - are close to the source of an application, They consist in testing 
  -It help to verify that the system meets all functional and non-functional requirements, including performance, usability, and security .
 Acceptance tests - are formal tests that verify if a system satisfies business requirements. They require the entire application to be running while testing and focus on replicating user behaviors. 
 - Whether the software meets the needs of the end-user and is ready for deployment.
-- 
+  
 #Part 2: Introduction to AI and Prompt Engineering
 
 9. Define prompt engineering and discuss its importance in interacting with AI models.
