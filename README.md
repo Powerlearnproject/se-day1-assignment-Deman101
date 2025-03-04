@@ -5,7 +5,6 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 1.Explain what software engineering is and discuss its importance in the technology industry.
-
 software engineering is a branch of computer science used for developing, testing and maintaining software.
 Reliability- it ensures software performs as expected without bias especially for critical applications like healthcare ,finance. 
 Efficiency - it helps to optimize developer workflow while maintaining high quality standards.
@@ -13,31 +12,25 @@ Scalability and flexibility - it ensures that the system can handle an increased
 Security - implement protection practice like authentication, authorization and encryption to secure users information. Identify and describe at least three key milestones in the evolution of software engineering.
 
 2.Identify and describe at least three key milestones in the evolution of software engineering.
-
 i. The Birth of Software Engineering (1968 - NATO Conference)
 During the 1968 NATO Software Engineering Conference members declared Software Engineering its official title then worked to establish engineering methods that would structure software development procedures. The science community formalized software engineering as an approved academic discipline through official recognition of its field.  
-
 ii. The Rise of Structured Programming (1970s - 1980s) 
 Structured Programming became a standard in the field because it combined readable programs alongside modular design methods featuring control structures and GOTO statement removal procedures for reduced maintenance costs. The major campaign for Structured Programming by Edsger Dijkstra led to the development of programming languages such as C, Pascal, and Ada which needed advanced coding practices. Wide adoption of programming languages occurred because of these developments. The progressive framework built essential principles which later led to the development of modern software development techniques.
-
 iii. The Emergence of Agile Methodologies (1990s - Present)
 The traditional software development practice adopted the Waterfall Model protocol, but specification changes proved this model ineffective. The year 2001 marked the appearance of the Agile Manifesto to address development challenges through its multi-iterative flexible approach. Software development industries underwent their primary shift due to Agile methodologies, particularly Scrum and Kanban, as well as Extreme Programming (XP) because these methods delivered speed while providing ongoing feedback that helped adapt solutions to customer requirements. Agile serves as the principle methodology of the software engineering discipline because it supports startup business innovation and innovative solution development for large enterprises.
 
 3. List and briefly explain the phases of the Software Development Life Cycle.
-
 planning - identify the software requirement or purpose and scope.
 requirement analysis - identify the final user specification. 
 design - building the framework. 
 coding - converting software design into tangible code.
 testing - examine the software for any bugs and glitches
 
-5. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+4. Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 waterfall methodology - Linear and sequential, each phase is completed before moving on. 
 i. there is Low flexibility, changes are hard to incorporate once a phase is complete.
 ii. customer feedback comes late, after the product is developed.
 iii. testing is done at the end of the development process.
-
 agile methodology - Iterative and incremental, with multiple cycles (sprints). 
 i. high flexibility, adapts to changing requirements. 
 ii. regular customer feedback is incorporated into every sprint. 
@@ -59,9 +52,7 @@ vi. create blueprint for the project.
 vii. tracking and communicating information regarding the project milestone.
 viii. deliver the complete software to the client and regularly check its performance.
 
-
 6. Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
 An integrated development environment (IDE) is a software platform that facilitates the creation of other software applications by providing a space to write, compile, and debug code, sometimes with value-adding tools that reduce development efforts. eg Visual Studio Code (VSCode)
 importance:
 Programming languages have rules for how statements must be structured. Because an IDE knows these rules, it contains many intelligent features for automatically writing or editing the source code.
@@ -71,7 +62,6 @@ IDEs increase programmer productivity by performing repeatable development tasks
 An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
 The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
 Debugging IDE enables a step through the code, line by line, as it runs and inspect code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real time, even as the developer is typing.
-
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 importance:
 Collaboration: Enables multiple developers to work on the same codebase without conflicts.
@@ -80,7 +70,6 @@ Change Tracking: Records detailed history of changes, allowing easy analysis of 
 Error Recovery: Allows reverting to previous versions if new changes introduce errors
 
 7. What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
-
 rapid technological advancement places considerable pressure on software engineers to stay current.
 Solution: adopting continuous learning practices and using agile methodologies to adapt to emerging trends, keeping their skills sharp in an ever-evolving industry. -
 Time Constraints - Software engineering is a demanding and time-intensive field, often requiring engineers to work under high pressure to meet tight deadlines.
@@ -95,7 +84,6 @@ Software Accessibility and Usability - Overly complex software can frustrate or 
 Solution: Use scalable architecture, Emphasize reliability.
 
 8. Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-
 Unit tests - are close to the source of an application, They consist in testing individual methods and functions of the classes, components, or modules used by your software. - it ensures that each unit performs its intended function correctly, isolated from other components.
 Integration tests - verify that different modules or services used by your application work well together.
 i. help to ensure data flows smoothly between modules and interfaces work as expected.
@@ -107,7 +95,6 @@ iii. Whether the software meets the needs of the end-user and is ready for deplo
 #Part 2: Introduction to AI and Prompt Engineering
 
 9. Define prompt engineering and discuss its importance in interacting with AI models.
-    
 Prompt engineering  is the process where you guide generative AI solutions to generate desired outputs.
 Importance:
 Improved user experience - Prompt engineering makes it easy for users to obtain relevant results in the first prompt. It helps mitigate bias that may be present from existing human bias in the large language models’ training data.
